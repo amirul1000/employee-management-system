@@ -3,9 +3,8 @@
 Employee Management System in PHP MySQL Free code
 ======================================================
 
-Youtube Tutorial : https://youtu.be/8IlmPZR5wkY
+Youtube Tutorial : https://youtu.be/usF2IKHEKIc
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
